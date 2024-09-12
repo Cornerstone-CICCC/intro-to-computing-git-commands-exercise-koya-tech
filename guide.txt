@@ -1,0 +1,1 @@
+\nThis project helps to understand Git basics.
